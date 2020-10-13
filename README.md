@@ -2,5 +2,5 @@
 
 
 ## Task 0 - SWOT
-<a href="IFD-WiSe2021/task0_swot/>SWOT-Analyse</a>
-<br>Stand: 12.10.2020
+https://burntsanctuary.github.io/IFD-WiSe2021/task0_swot/swot.html
+Stand: 12.10.2020
