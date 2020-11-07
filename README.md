@@ -14,3 +14,7 @@ Repository for Interface Design, Joshua Keller, WiSe 2020/2021, OMB 5
 ## Task 3 - Wahrnehmung und Aufmerksamkeit
 <a href="https://api-lunacy.icons8.com/p/o351R5xvf0KMKP9D5uA2fg/O0S1tWycZkW2HaAaXkr9cg/index.html">Sketch Link</a>
 <br>Stand: 03.11.2020<br>
+## Task 4 - Design Grundsätze und Heuristiken
+<a href="https://burntsanctuary.github.io/IFD-WiSe2021/task4_vui/Konzept.pdf">Konzept</a><br>
+<a href="https://burntsanctuary.github.io/IFD-WiSe2021/task4_vui/Flowchart.pdf">Flowchart</a>
+<br>Stand: 07.11.2020<br>
