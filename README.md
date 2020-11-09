@@ -17,4 +17,4 @@ Repository for Interface Design, Joshua Keller, WiSe 2020/2021, OMB 5
 ## Task 4 - Design Grundsätze und Heuristiken
 <a href="https://burntsanctuary.github.io/IFD-WiSe2021/task4_vui/Konzept.pdf">Konzept</a><br>
 <a href="https://burntsanctuary.github.io/IFD-WiSe2021/task4_vui/Flowchart.pdf">Flowchart</a>
-<br>Stand: 07.11.2020<br>
+<br>Stand: 09.11.2020<br>
