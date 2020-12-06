@@ -23,3 +23,6 @@ Repository for Interface Design, Joshua Keller, WiSe 2020/2021, OMB 5
 <a href="https://streamable.com/ogv5z8">Video als Download auf github (43mb)</a><br>
 <a href="https://burntsanctuary.github.io/IFD-WiSe2021/task5_vui2/website/index.html">Applikationsseite</a>
 <br>Stand: 27.11.2020<br>
+## Task 6 - VR-Brille basteln
+<a href="https://burntsanctuary.github.io/IFD-WiSe2021/task6_vr/Dokumentation.pdf">Dokumentation</a>
+<br>Stand: 06.12.2020<br>
