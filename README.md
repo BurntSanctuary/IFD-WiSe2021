@@ -19,10 +19,15 @@ Repository for Interface Design, Joshua Keller, WiSe 2020/2021, OMB 5
 <a href="https://burntsanctuary.github.io/IFD-WiSe2021/task4_vui/Flowchart.pdf">Flowchart</a>
 <br>Stand: 09.11.2020<br>
 ## Task 5 - Umsetzung eines Voice User Interfaces
-<a href="https://burntsanctuary.github.io/IFD-WiSe2021/task5_vui2/video/FuWi.mkv">Video auf streamable.com</a><br>
-<a href="https://streamable.com/ogv5z8">Video als Download auf github (43mb)</a><br>
+<a href="https://burntsanctuary.github.io/IFD-WiSe2021/task5_vui2/video/FuWi.mkv">Video als Download auf github (43mb)</a><br>
+<a href="https://streamable.com/ogv5z8">Video auf streamable.com</a><br>
 <a href="https://burntsanctuary.github.io/IFD-WiSe2021/task5_vui2/website/index.html">Applikationsseite</a>
 <br>Stand: 27.11.2020<br>
 ## Task 6 - VR-Brille basteln
 <a href="https://burntsanctuary.github.io/IFD-WiSe2021/task6_vr/Dokumentation.pdf">Dokumentation</a>
 <br>Stand: 06.12.2020<br>
+## Task 7 - VR Video Prototyping
+<a href="https://burntsanctuary.github.io/IFD-WiSe2021/task7_vrprototype/VRPrototype.mov">Video als Download auf github (49mb)</a><br>
+<a href="https://streamable.com/9gamxl">Video auf streamable.com</a><br>
+<a href="https://burntsanctuary.github.io/IFD-WiSe2021/task7_vrprototype/Dokumentation.pdf">Dokumentation</a>
+<br>Stand: 13.12.2020<br>
