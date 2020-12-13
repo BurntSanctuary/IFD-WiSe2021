@@ -27,7 +27,7 @@ Repository for Interface Design, Joshua Keller, WiSe 2020/2021, OMB 5
 <a href="https://burntsanctuary.github.io/IFD-WiSe2021/task6_vr/Dokumentation.pdf">Dokumentation</a>
 <br>Stand: 06.12.2020<br>
 ## Task 7 - VR Video Prototyping
-<a href="https://burntsanctuary.github.io/IFD-WiSe2021/task7_vrprototype/VRPrototype.mov">Video als Download auf github (49mb)</a><br>
+<a href="https://burntsanctuary.github.io/IFD-WiSe2021/task7_vrprototype/VRPrototype.mov">Video als Download auf github (60.5mb)</a><br>
 <a href="https://streamable.com/9mr0eq">Video auf streamable.com</a><br>
 <a href="https://burntsanctuary.github.io/IFD-WiSe2021/task7_vrprototype/Dokumentation.pdf">Dokumentation</a>
 <br>Stand: 13.12.2020<br>
