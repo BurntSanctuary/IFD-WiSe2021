@@ -31,3 +31,11 @@ Repository for Interface Design, Joshua Keller, WiSe 2020/2021, OMB 5
 <a href="https://streamable.com/9mr0eq">Video auf streamable.com</a><br>
 <a href="https://burntsanctuary.github.io/IFD-WiSe2021/task7_vrprototype/Dokumentation.pdf">Dokumentation</a>
 <br>Stand: 13.12.2020<br>
+## Task 8 - VR Video Prototyping in Adobe XD - Draft XR
+<a href="https://burntsanctuary.github.io/IFD-WiSe2021/task8-vrprototype2/Prototype.xd">Voller Prototyp</a><br>
+<a href="https://app.draftxr.com/vr/DmwPIM">Voller Prototyp auf Draft XR</a><br>
+<a href="https://burntsanctuary.github.io/IFD-WiSe2021/task8-vrprototype2/Dokumentation.pdf">Dokumentation</a><br>
+<a href="https://burntsanctuary.github.io/IFD-WiSe2021/task8-vrprototype2/Prototype_Subtitle_only.xd">Prototyp - Subtitle only</a><br>
+<a href="https://burntsanctuary.github.io/IFD-WiSe2021/task8-vrprototype2/Prototype_Sound_Anzeige_only.xd">Prototyp - Sound Anzeige only</a><br>
+<a href="https://app.draftxr.com/vr/4IHhri">Soundanzeige only Prototyp auf Draft XR</a><br>
+<br>Stand: 14.01.2021<br>
