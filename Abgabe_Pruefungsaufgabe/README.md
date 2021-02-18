@@ -1,5 +1,5 @@
 # IFD-WiSe2021
-## Pr+fungsaufgabe
+## Prüfungsaufgabe
 
 <a href="https://www.figma.com/proto/bMZmawo5r12L8lUnHM7w44/Prototype?scaling=min-zoom&node-id=0%3A2">Prototyp auf Figma.com</a><br>
 <a href="https://burntsanctuary.github.io/IFD-WiSe2021/Abgabe_Pruefungsaufgabe/Dokumentation.pdf">Dokumentation</a><br>
